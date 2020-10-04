@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734226478167",
+    "firebase_url": "https://ambulance-tracker-51fca.firebaseio.com",
+    "project_id": "ambulance-tracker-51fca",
+    "storage_bucket": "ambulance-tracker-51fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734226478167:android:9cdb8f5f8e38a36d9fdf12",
+        "android_client_info": {
+          "package_name": "com.bustracking.myschool.bustracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734226478167-h9pu4qilprar5c068e06f87vb3nfuk7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6VcGv6AHAhyS1Nz-hQW7a7MyOx8x6eRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734226478167-h9pu4qilprar5c068e06f87vb3nfuk7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
