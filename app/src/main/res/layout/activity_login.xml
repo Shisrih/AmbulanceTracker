@@ -28,11 +28,11 @@
 
         <ImageView
             android:id="@+id/imageView2"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
             android:layout_gravity="center"
             android:layout_marginBottom="20dp"
-            android:src="@drawable/login_icon" />
+            android:src="@drawable/user" />
 
         <RadioGroup
             android:id="@+id/radioOption"
@@ -92,5 +92,6 @@
         app:adSize="SMART_BANNER"
         app:adUnitId="@string/ADS_BANNER_UNIT_ID"
         android:id="@+id/adViewLoginActivity"
+        android:visibility="invisible"
         ></com.google.android.gms.ads.AdView>
 </RelativeLayout>

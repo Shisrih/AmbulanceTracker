@@ -23,9 +23,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.bustracking.myschool.bustracker.Activities.UserRegistrationActivity" />
-        <activity android:name="com.bustracking.myschool.bustracker.Activities.DriverRegistrationActivity" />
-        <activity android:name="com.bustracking.myschool.bustracker.Activities.LoginActivity" />
+        <activity android:name="com.bustracking.myschool.bustracker.Activities.UserRegistrationActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name="com.bustracking.myschool.bustracker.Activities.DriverRegistrationActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.bustracking.myschool.bustracker.Activities.LoginActivity"
+            android:screenOrientation="portrait"/>
         <activity
             android:name="com.bustracking.myschool.bustracker.Activities.NavigationActivity"
             android:label="@string/title_activity_my_navigation"
